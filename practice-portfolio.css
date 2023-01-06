@@ -99,6 +99,24 @@ header {
 
 .donate-plan-types {
   display: flex;
+  padding: 10px;
   margin: 7px;
   justify-content: space-between;
+  margin-left:150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  padding: 2opx;
+}
+
+.food-for-family {
+  background-color: rgb(169, 222, 226);
+  width: 450px;
+}
+.shelter-for-family{
+  background-color: rgb(209, 157, 209);
+  width: 450px;
+}
+.education-for-child{
+  background-color: rgb(217, 204, 131);
+  width: 450px;
 }
