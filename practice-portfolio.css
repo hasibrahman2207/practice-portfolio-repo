@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: rgb(112, 114, 114);
+}
+
+/* banner section */
+header {
+  display: flex;
+  width: 100%;
+  height: 40vh;
+  background-image: url(../donate-today/images/donation6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  position: relative;
+
+}
+
+.title-style {
+  color: rgb(49, 27, 27);
+}
+
+.banner-title {
+  text-align: center;
+
+}
+
+.btn-primary {
+  background-color: orangered;
+  color: rgb(189, 206, 220);
+  border-radius: 5%;
+  padding: 10px;
+  border: 0;
+  ;
+}
+
+.donate-today {
+  padding-top: 30px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.amount-select {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.amount-select {
+  padding: 15px;
+  max-resolution: 10px;
+}
+
+.amount1 {
+  background-color: rgb(216, 219, 221);
+  padding: 12px;
+  margin: 5px;
+}
+
+.amount2 {
+  background-color: rgb(216, 219, 221);
+  padding: 12px;
+  margin: 5px;
+}
+
+.amount3 {
+  background-color: rgb(216, 219, 221);
+  padding: 12px;
+  margin: 5px;
+}
+
+.amount4 {
+  background-color: rgb(216, 219, 221);
+  padding: 12px;
+  margin: 5px;
+}
+
+.amount5 {
+  background-color: rgb(216, 219, 221);
+  padding: 12px;
+  margin: 5px;
+}
+
+.our-donate-plan {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.donate-plan-types {
+  display: flex;
+  margin: 7px;
+  justify-content: space-between;
+}
