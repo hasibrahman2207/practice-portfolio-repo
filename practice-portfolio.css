@@ -184,7 +184,7 @@ header {
   padding-top: 100px;
 }
 .subscribe{
-  height: 50px;
+  height: 80px;
   width: 500px;
   margin-top: 20px;
   padding-top: 50px;
@@ -203,4 +203,19 @@ header {
   border-radius: 5%;
   padding: 6px;
   border: 0;
+}
+footer{
+  margin-top: 40px;
+  height: 120px;
+  background-color: black;
+}
+.humble{
+  color: rgb(221, 78, 101);
+  text-align: center;
+  padding-top: 30px;
+}
+h5{
+  text-align: center;
+  color: rgb(249, 248, 248);
+  margin-top: -10px;
 }
